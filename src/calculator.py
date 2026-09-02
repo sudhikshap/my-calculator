@@ -34,7 +34,7 @@ def divide(a, b):
     return result
 
 def power(a,b):
-    return a**b+5
+    return a**b+10
 
 # TODO: Students will add multiply, divide, power, sqrt functions
 
