@@ -34,7 +34,11 @@ def divide(a, b):
     return result
 
 def power(a,b):
+<<<<<<< HEAD
     return a**b+10
+=======
+    return a**b+50
+>>>>>>> feature/power
 
 # TODO: Students will add multiply, divide, power, sqrt functions
 
